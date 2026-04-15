@@ -5,7 +5,7 @@
 
 <!-- FRASE DE IMPACTO -->
 <p align="center">
-  <em>Transformando conhecimento em liberdade, e tecnologia em caminhos mais humanos.</em>
+  <em>Transformando conhecimento em liberdade e tecnologia em caminhos mais humanos.</em>
 </p>
 
 ---
